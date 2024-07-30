@@ -5,12 +5,15 @@
   "description": "this is backend at chai aur code with raunak",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "nackend"
   ],
   "author": "raunak chaudhary",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
