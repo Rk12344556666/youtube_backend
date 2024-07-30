@@ -1,0 +1,16 @@
+{
+  "name": "project_chai_code",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "this is backend at chai aur code with raunak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nackend"
+  ],
+  "author": "raunak chaudhary",
+  "license": "ISC"
+}
